@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Strata</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Strata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2017 10:11:16 +0530</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Third</title>
+      <link>/post/third/</link>
+      <pubDate>Wed, 06 Dec 2017 10:11:16 +0530</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description>Hi there, post #3</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/post/first/</link>
+      <pubDate>Wed, 06 Dec 2017 10:09:51 +0530</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>Hi there, folks. This is our first post!</description>
+    </item>
+    
+    <item>
+      <title>second.</title>
+      <link>/post/second/</link>
+      <pubDate>Mon, 25 Sep 2017 11:49:03 -0700</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>Hi there, second post!</description>
+    </item>
+    
+  </channel>
+</rss>
